@@ -1,0 +1,59 @@
+body{
+    background-color:#eee;
+    margin:0;
+    font-family:"Segoe MDL2 Assets";
+}
+.genel{
+    margin:60px;
+}
+.ust-menu{
+    background-color:a4a3a3;
+    height:60px;
+    position:fixed;
+    top:0;
+    left:0;
+    right:0;
+}
+.logo{
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWqzlzSUt_YrHHHH0Ofe65wmz9crw1cls5hD9ApuxgDfAJY6luHQ);
+    height:55px;
+    width:100px;
+    background-size:contain;
+    margin-top:5px;
+    margin-left:5px;
+    
+    background-repeat:no-repeat;
+}
+.golge{
+    box-shadow: 0 0 2px 2px rgba(0,0,0,0.15);
+}
+.boxed{
+    width:960px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.profil{
+    background-color:white;
+    width:75%;
+    float:left;
+}
+.sag-menu{
+    width:25%;
+    float:left;
+    margin-top:15px;
+    
+}
+.resim img{
+    width:200px;
+    margin:20px;
+}
+.resim, .bilgiler{
+    display:inline-block;
+}
+.bilgiler{
+    vertical-align:top;
+    margin-left:20px;
+}
+.deneyim-ul{
+    list-style:none;
+}
